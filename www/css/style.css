@@ -25,6 +25,10 @@ div#time {
   margin: 0 auto;
 }
 
+#time::after{
+  content: " sec";
+}
+
     #minuteStr {
         color: #ff0000;
         font-size: 20px;
