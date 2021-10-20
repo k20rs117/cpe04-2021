@@ -15,6 +15,10 @@ Button#btnA {
   color: green;
 }
 
+div#remain{
+  font-weight: bold;
+}
+
     #minuteStr {
         color: #ff0000;
         font-size: 20px;
