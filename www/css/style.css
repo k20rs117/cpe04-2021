@@ -6,9 +6,12 @@ body {
 
 Button {
   color: blue;
-  font-family: 'Times';
+  font-family: Times;
   border-radius: 20px;
+}
 
+Button#btnA {
+  background-color: yellow;
 }
 
     #minuteStr {
