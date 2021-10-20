@@ -12,6 +12,7 @@ Button {
 
 Button#btnA {
   background-color: yellow;
+  color: green;
 }
 
     #minuteStr {
